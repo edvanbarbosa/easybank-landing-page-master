@@ -35,11 +35,18 @@ const MobileState = ()=>{
     };
     
     const controlMenuMobile = () =>{
+
+
+
         if(menuIcon.classList.contains('burguer')){
             OpenMenuMobile();
         }else{
             CloseMenuMobile();
         };
+
+
+
+
     };
 
     menuIcon.addEventListener('click', controlMenuMobile);

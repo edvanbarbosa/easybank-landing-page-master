@@ -58,7 +58,7 @@ nav > div{
     height: 100vh;
     width: 100vw;
     position: absolute;
-    background-color: rgba(24, 24, 24, 0.097);
+    background-color: rgba(24, 24, 24, 0.291);
 }
 .mobile-menu{
     display: flex;
